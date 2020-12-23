@@ -1,2 +1,2 @@
-# PicgGO
+# PicGO
 picture storage
